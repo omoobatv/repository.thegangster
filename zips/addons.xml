@@ -59,7 +59,7 @@
 
 <addon id="plugin.video.Theradios"
        name="Online Radios"
-       version="1.0.3"
+       version="1.0.4"
        provider-name="Prince Abiola Ogundipe">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
